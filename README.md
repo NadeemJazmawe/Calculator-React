@@ -1,5 +1,17 @@
-## Available Scripts
+## Calculator
 
+This project displays basic Calculator in the browser.\
+It has developed using React library in JavaScript.\
+
+By runnig the code you will get this page:
+![Calculator](https://user-images.githubusercontent.com/44744877/120086256-cd0b1a00-c0e6-11eb-8e6d-03630699c594.png)
+
+Enjoy it <3
+
+
+## How to run
+
+Like any other React App \
 In the project directory, you can run:
 
 ### `npm start`
